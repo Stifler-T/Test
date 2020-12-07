@@ -1,7 +1,6 @@
-#include <stdio.h>
-#include <stdint.h>
+#include "test.h"
 
-int main(void)
+void test_deg(void)
 {
     printf(">> Test\r\n");
 }
